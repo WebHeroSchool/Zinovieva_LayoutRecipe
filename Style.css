@@ -1,6 +1,6 @@
-h1{
-	text-align: left;/*выравнивание по сентру*/
+header{
+	text-align: center;/*выравнивание по wентру*/
 }
-h3{
+.content{
 	font-style: italic;
 }
